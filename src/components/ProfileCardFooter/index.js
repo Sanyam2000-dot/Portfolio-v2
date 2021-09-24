@@ -7,8 +7,8 @@ export default () => {
   return (
     <div className="footerWrapper">
       <a
-        href="/SanyamResume.pdf"
-        download="SanyamResume.pdf"
+        href="/SanyamMehendiratta.pdf"
+        download="SanyamMehendiratta.pdf"
         className="footerWrapper__btn"
       >
         Download CV
